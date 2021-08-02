@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508488693 source:/home/aksoy/Documents/maltepe_20178_2018/courses/cen235/array_functions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
